@@ -1,7 +1,5 @@
 # Google-Form-Auto-Close
 
-# GoogleFormAutoClose
-
 ## 中文說明
 這個專案利用 Google Apps Script 定時自動關閉 Google 表單的回應功能。
 
