@@ -17,7 +17,7 @@
 3. 修改 `new Date` 中的日期和時間，設定你需要的關閉時刻。
 4. 部署並運行程式，系統會在指定時間自動關閉表單回應。
 
-## English
+# Google-Form-Auto-Close
 This project uses Google Apps Script to automatically close a Google Form at a specified time.
 
 ### Key Features
